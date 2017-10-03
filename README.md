@@ -1,3 +1,10 @@
+---
+title: UnMarkDocs Terms and Conditions
+tags: ['unmarkdocs', 'terms', 'legal']
+preloader: true
+konami: true
+---
+
 ## UnMarkDocs Terms and Conditions
 
 1.  **Introduction**
