@@ -16,9 +16,13 @@ By accessing the website, you are agreeing to be bound by these terms of service
 Permission is granted to temporarily download one copy of the materials (information or software) on UnMarkDocs' website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
 
 - modify or copy the materials;
+
 - use the materials for any commercial purpose, or for any public display (commercial or non-commercial);
+
 - attempt to decompile or reverse engineer any software contained on UnMarkDocs' website;
+
 - remove any copyright or other proprietary notations from the materials; or
+
 - transfer the materials to another person or "mirror" the materials on any other server.
       
     
