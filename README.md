@@ -7,67 +7,49 @@ konami: true
 
 ## UnMarkDocs Terms and Conditions
 
-###  **Introduction**
+### Terms
 
-The UnMarkDocs Terms and Conditions (the Terms) shall manage your use of UnMarkDocs (the Website). These Terms will be applied fully and affect to your use of this Website. By using this Website, you agreed to accept all terms and conditions written in here. You must not use this Website if you disagree with any of these Terms and Conditions.
+By accessing the website, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law.
 
-People below 14 years old are not allowed to use this Website.
+### Use License
 
-###  **Intellectual Property Rights**
+Permission is granted to temporarily download one copy of the materials (information or software) on UnMarkDocs' website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
 
-Other than the content you own, under these Terms, UnMarkDocs and/or its licensors own all the intellectual property rights and materials contained in this Website.
+- modify or copy the materials;
+- use the materials for any commercial purpose, or for any public display (commercial or non-commercial);
+- attempt to decompile or reverse engineer any software contained on UnMarkDocs' website;
+- remove any copyright or other proprietary notations from the materials; or
+- transfer the materials to another person or "mirror" the materials on any other server.
+      
+    
+This license shall automatically terminate if you violate any of these restrictions and may be terminated by UnMarkDocs at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.
+  
 
-You are granted limited license only for purposes of viewing the material contained on this Website.
+### Disclaimer
 
-###  **Restrictions**
+  
+The materials on UnMarkDocs' website are provided on an 'as is' basis. UnMarkDocs makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.
+Further, UnMarkDocs does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to this site.
+  
 
-You are specifically restricted from all of the following
+### Limitations
 
-*   publishing any Website material in any other media without linking the source;
-*   selling, sublicensing and/or otherwise commercializing any Website material;
-*   using this Website in any way that is or may be damaging to this Website;
-*   using this Website in any way that impacts user access to this Website;
-*   using this Website contrary to applicable laws and regulations, or in any way may cause harm to the Website, or to any person or business entity;
-*   engaging in any data mining, data harvesting, data extracting or any other similar activity in relation to this Website;
-*   using this Website to engage in any advertising or marketing;
-*   using this Website to show or distribute illegal content.
+In no event shall UnMarkDocs or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on UnMarkDocs' website, even if UnMarkDocs or a UnMarkDocs authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
 
-Certain areas of this Website are restricted from being access by you and UnMarkDocs may further restrict access by you to any areas of this Website, at any time, in absolute discretion. Any user ID and password you may have for this Website are confidential and you must maintain confidentiality as well.
+### Accuracy of materials
 
-###  **Your Content**
+The materials appearing on UnMarkDocs website could include technical, typographical, or photographic errors. UnMarkDocs does not warrant that any of the materials on its website are accurate, complete or current. UnMarkDocs may make changes to the materials contained on its website at any time without notice. However UnMarkDocs does not make any commitment to update the materials.
 
-In these Terms and Conditions, “Your Content” shall mean any video, text, images or other material you choose to display on this Website. By displaying Your Content, you give the Website the right to display Your Content, while retaining the rest of the rights and all the responsability for the contents of it.
+### Links
 
-Your Content must be your own and must not be invading any third-party’s rights. UnMarkDocs reserves the right to remove any of Your Content from this Website at any time without notice.
+UnMarkDocs has not reviewed all of the sites linked to its website and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by UnMarkDocs of the site. Use of any such linked website is at the user's own risk.
 
-###  **No warranties**
+### Modifications
 
-This Website is provided “as is,” with all faults, and UnMarkDocs express no representations or warranties, of any kind related to this Website or the materials contained on this Website. Also, nothing contained on this Website shall be interpreted as advising you.
+UnMarkDocs may revise these terms of service for its website at any time without notice. By using this website you are agreeing to be bound by the then current version of these terms of service.
 
-###  **Limitation of liability**
+### Governing Law
 
-In no event shall UnMarkDocs, nor any of its officers, directors and employees, shall be held liable for anything arising out of or in any way connected with your use of this Website whether such liability is under contract.  UnMarkDocs, including its officers, directors and employees shall not be held liable for any indirect, consequential or special liability arising out of or in any way related to your use of this Website.
+These terms and conditions are governed by and construed in accordance with the laws of Spain and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.
 
-###  **Indemnification**
-
-You hereby indemnify to the fullest extent UnMarkDocs from and against any and/or all liabilities, costs, demands, causes of action, damages and expenses arising in any way related to your breach of any of the provisions of these Terms.
-
-###  **Severability**
-
-If any provision of these Terms is found to be invalid under any applicable law, such provisions shall be deleted without affecting the remaining provisions herein.
-
-###  **Variation of Terms**
-
-UnMarkDocs is permitted to revise these Terms at any time as it sees fit, and by using this Website you are expected to review these Terms on a regular basis.
-
-###  **Assignment**
-
-The UnMarkDocs is allowed to assign, transfer, and subcontract its rights and/or obligations under these Terms without any notification. However, you are not allowed to assign, transfer, or subcontract any of your rights and/or obligations under these Terms.
-
-###  **Entire Agreement**
-
-These Terms constitute the entire agreement between UnMarkDocs and you in relation to your use of this Website, and supersede all prior agreements and understandings.
-
-###  **Governing Law & Jurisdiction**
-
-These Terms will be governed by and interpreted in accordance with the laws of Spain, and you submit to the non-exclusive jurisdiction of the state and federal courts located in Spain for the resolution of any disputes.
+						
